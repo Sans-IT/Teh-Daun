@@ -1,3 +1,22 @@
+## Tentang & isi website
+
+Website sederhana untuk website UMKM penjual es teh
+berikut halaman yang tersedia dari website ini :
+
+1. Home page (menampilkan halaman utama dari website)
+2. Tentang kami (menampilkan penjelasan tentang cerita pengusaha atau awal mula usaha dibuat dll)
+3. Varian rasa / varian menu (menampilkan varian rasa/menu yang dijual untuk usaha)
+4. Gabung mitra (menampilkan halaman mitra untuk berkerjasama serta testimonial orang orang)
+5. Cabang (menampilkan lokasi dan no whatsapp Cabang usaha yang tersedia disekitar kota)
+
+isi list menu untuk direktori project page yang ada
+
+1. home
+2. about-us
+3. variant
+4. franchise
+5. cabang
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started

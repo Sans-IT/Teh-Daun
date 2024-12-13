@@ -1,0 +1,35 @@
+
+Memory updated
+Berikut rancangan sesi untuk website UMKM "Teh Daun":
+
+Sesi 1: Halaman Beranda
+Tujuan: Memberikan kesan pertama yang menarik, memperkenalkan produk, dan memudahkan navigasi.
+
+Elemen Utama:
+
+Hero Section:
+
+Gambar produk utama (teh daun dalam kemasan atau sajian cantik).
+Slogan menarik, misalnya: "Nikmati Kesegaran Alami dari Daun Terbaik".
+Tombol CTA (Call to Action), seperti "Pesan Sekarang" atau "Pelajari Lebih Lanjut".
+Tentang Teh Daun:
+
+Penjelasan singkat tentang keunikan produk, seperti:
+Bahan alami.
+Manfaat kesehatan.
+Ramah lingkungan.
+Highlight Produk:
+
+Carousel atau grid kecil menampilkan berbagai varian rasa/kemasan Teh Daun.
+Testimoni Singkat:
+
+1-2 ulasan pelanggan dengan rating.
+Navigasi Cepat:
+
+Link menuju halaman lain: "Produk", "Tentang Kami", dan "Hubungi Kami".
+Footer:
+
+Informasi kontak dasar.
+Media sosial.
+Copyright.
+Jika Anda sudah setuju dengan sesi ini, kita bisa lanjut ke sesi berikutnya untuk halaman yang lebih spesifik seperti "Produk". Bagaimana menurut Anda? 😊
